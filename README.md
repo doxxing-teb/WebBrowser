@@ -1,2 +1,2 @@
 # WebBrowser
-WebBrowser Anonymous, it's not save record and not save your IP  
+WebBrowser Anonymous and Minimalist, it's not save record and not save your IP  
